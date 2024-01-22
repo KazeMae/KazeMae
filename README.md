@@ -20,6 +20,6 @@
 <br/>
 
 <p align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=KazeMae&role=OWNER,ORGANIZATION_MEMBER&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="KazeMae's GitHub Stats"/>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KazeMae&role=OWNER,ORGANIZATION_MEMBER&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="KazeMae's Top Languages"/>
+  <img height="180em" src="./assets/github-stats.svg" alt="KazeMae's GitHub Stats"/>
+  <img height="180em" src="./assets/top-langs.svg" alt="KazeMae's Top Languages"/>
 </p>
